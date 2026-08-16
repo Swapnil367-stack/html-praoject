@@ -1,0 +1,33 @@
+*{
+    margin:6px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 10px;
+    border: 2px solid black;
+    height: auto;
+    width: auto;
+    margin-left: 5px;
+    
+}
+
+p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(45, 218, 45);
+}
+p1 p2{
+    color: black;
+}
+p1 p{
+    color: rgb(20, 98, 193);
+
+}
+p1 p3{
+    color: black;
+}
+p1 ul{
+    color: black;
+}
